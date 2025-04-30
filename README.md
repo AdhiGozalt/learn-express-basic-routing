@@ -27,12 +27,18 @@ This is a simple Node.js project to demonstrate basic routing using the Express.
    ```bash
    npm install
 
+2. Run the server:
+   ```bash
+   node index.js
 
-Run the server:
-node index.js
+3. Server will be running at:
+   ```bash
+   
+    http://localhost:8080
 
-Server will be running at:
-http://localhost:8080
+
+
+
 
 Tech Stack
 Node.js
